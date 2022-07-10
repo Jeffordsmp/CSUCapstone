@@ -6,17 +6,19 @@ This is my final project for CSU Gloabl
 
 This project will first take responses from a Google Forms Survay
 
-[HERE IS THE GOOGLE SURVAY](https://forms.gle/A6QcZTDptSNuhZeeA)
+[**Here is the Google Survay**](https://forms.gle/A6QcZTDptSNuhZeeA)
 
 The results from that survay are then stored into an SQL database that is hosted on AWS RDS
 
 The data from there is then displayed using Plotly
 
+[**Here is a youtube video where I go through the project**](https://www.youtube.com/watch?v=pDXfJmG8MB8)
+
+
 This is what the Plotly Dashboard looks like
 
 ![plotly dash](/images/dash-img.png)
 
-[**Here is a youtube video where I go through the project**](https://www.youtube.com/watch?v=pDXfJmG8MB8)
 
 
 ## What the Files do
