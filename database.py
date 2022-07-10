@@ -7,9 +7,7 @@ mydb = mysql.connector.connect(
     password='password',
     host='capstone.cvyfjv7s3bb2.us-east-2.rds.amazonaws.com',
     database='capstoneDB')
-#----------------- DELETE ME ----------------------
-#try to connect to rds from here
-#---------------------------------------------------
+
 cursor = mydb.cursor()
 
 
