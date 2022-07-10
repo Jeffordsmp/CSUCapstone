@@ -12,7 +12,7 @@ The results from that survay are then stored into an SQL database that is hosted
 
 The data from there is then displayed using Plotly
 
-![alt text](/images/Screen Shot 2022-07-10 at 5.26.13 PM.png)
+![alt text](/images/img.png)
 
 ## What the Files do
 
