@@ -30,12 +30,20 @@ I have removed all of the content from it
 
 ### database.py
 
-This is where the 
+This is where the SQL conncetions and Commands are run
 
 ### find.py
 
+This is the file that loops through the JSON file and Calls the database class to insert rows of data
+
 ### forms.py
+
+This file calls the google forms API
 
 ### results.json
 
+This is where the API results are kept
+
 ### token.json
+
+This is another file that had Google authentication keys
