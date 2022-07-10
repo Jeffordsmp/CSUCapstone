@@ -16,6 +16,9 @@ This is what the Plotly Dashboard looks like
 
 ![plotly dash](/images/dash-img.png)
 
+[**Here is a youtube video where I go through the project**](https://www.youtube.com/watch?v=pDXfJmG8MB8)
+
+
 ## What the Files do
 
 ### app.py
