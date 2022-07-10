@@ -14,3 +14,26 @@ The data from there is then displayed using Plotly
 
 ## What the Files do
 
+### app.py
+
+This is the main file 
+
+It has the Plotly and Dash code
+
+It aslo calls to start the other files
+
+### client_secrets.json
+
+This is a file with Google API log-in information
+
+I have removed all of the content from it
+
+### database.py
+
+### find.py
+
+### forms.py
+
+### results.json
+
+### token.json
